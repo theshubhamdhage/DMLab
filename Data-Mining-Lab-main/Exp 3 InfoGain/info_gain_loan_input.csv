@@ -1,0 +1,11 @@
+Maritial_status,Income,Home_loan_refund,Defaulter
+Single,Medium,Yes,No
+Married,Medium,No,No
+Single,Low,No,No
+Married,Medium,Yes,No
+Divorced,Low,No,Yes
+Married,Low,No,No
+Divorced,High,Yes,No
+Single,Low,No,Yes
+Married,Low,No,No
+Single,Low,No,Yes
